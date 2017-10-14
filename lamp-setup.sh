@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# How to setup Linux Apache Mysql PHP7 in Centos 7
+
 timedatectl set-ntp true
 timedatectl set-timezone Asia/Manila
 
